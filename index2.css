@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+body{
+    background: url(img/luxury-watch-technology-21559.jpg);
+    background-repeat: no-repeat;
+    background-size:  cover;
+    background-attachment: fixed;
+    /* height: 400px; */
+}
+.watches{
+    color: cornsilk;
+    font-size: 110px;
+    font-weight: 400;
+    padding-top: 150px;
+}
+.list{
+    display: flex;
+    /* justify-content: space-around; */
+    margin-top: 300px;
+}
+.list_iteam a{
+    font-size:20px;
+    color:cornsilk ;
+    text-decoration: none;
+    margin-left: 40px;
+    }
+    .euro{
+        background: none;
+        border: none;
+        color: rgb(179, 169, 158);
+    }
+   .icon{
+    color: rgb(120, 120, 117);
+    margin-left: 20px;
+    border: 1px solid rgb(120, 120, 117);
+    border-top: none;
+    border-bottom: none;
+   }
+   .icon a{
+    text-decoration: none;
+    color:  cornsilk ;
+   }
+   .humans{
+    color: rgb(120, 120, 117) ;
+   }
+    .account{
+        display: flex;
+        margin-top:60px;
+        align-items: start;
+       
+    }
+    .search{
+        color: cornsilk;
+        margin-left: 20px;
+    }
+    /* -----------------------------------------header end--------------------------------------------- */
+.text{
+    width: 500px;
+    height: 45px;
+    border: 1px solid rgb(186, 187, 160);
+}
+/* .carde{
+    margin-top: 90px;
+} */
+.aces{
+    padding-bottom: 30px;
+    font-weight: 400;
+    color: aliceblue;
+}
+.text2{
+    color: rgb(171, 176, 180);
+    font-size: 20px;
+    
+}
+.submit{
+   margin-top: 20px;
+    background: rgb(232, 163, 135);
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.rolls{
+    color: cornsilk;
+}
