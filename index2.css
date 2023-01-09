@@ -85,3 +85,34 @@ body{
 .rolls{
     color: cornsilk;
 }
+/* ====================================Responsive====================== */
+@media (max-width:575px) {
+    .watches {
+        color: cornsilk;
+        font-size: 110px;
+        font-weight: 400;
+        padding-top: 42px;
+    }
+    .aces {
+        padding-bottom: 30px;
+        font-weight: 400;
+        margin-top: 60px;
+        color: aliceblue;
+    }
+    .list {
+        display: flex;
+        /* justify-content: space-around; */
+        margin-top: 52px;
+    }
+    .text {
+        width: 419px;
+        height: 45px;
+        border: 1px solid rgb(186, 187, 160);
+    }
+    .list_iteam a {
+        font-size: 20px;
+        color: cornsilk;
+        text-decoration: none;
+        margin-left: 20px;
+    }
+}
