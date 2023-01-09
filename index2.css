@@ -89,9 +89,10 @@ body{
 @media (max-width:575px) {
     .watches {
         color: cornsilk;
-        font-size: 110px;
+        font-size: 74px;
         font-weight: 400;
         padding-top: 42px;
+        margin-left: 40px;
     }
     .aces {
         padding-bottom: 30px;
@@ -103,6 +104,7 @@ body{
         display: flex;
         /* justify-content: space-around; */
         margin-top: 52px;
+        padding-left: 0px;
     }
     .text {
         width: 419px;
