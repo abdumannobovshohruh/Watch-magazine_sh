@@ -104,3 +104,21 @@ border-radius: 5%;
 .orem{
     margin-top: 20px;
 }
+/* =======================================responsive=================== */
+@media (max-width: 575px) {
+    nav {
+        background: url(img/luxury-watch-technology-21559.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* background-attachment: fixed; */
+        height: 400px;
+        width: 1120px;
+    }
+    .watches {
+        color: cornsilk;
+        font-size: 110px;
+        font-weight: 400;
+        padding-top: 150px;
+        text-align: center;
+    }
+}
